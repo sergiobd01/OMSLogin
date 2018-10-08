@@ -2,7 +2,7 @@
 using System.Net;
 using System.Threading;
 using System.Web.Http;
-using OMSService.Campaing.Models;
+using OMSService.Campaing.Payload;
 
 namespace OMSService.Campaing.Controllers
 {
